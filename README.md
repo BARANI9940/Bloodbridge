@@ -61,5 +61,19 @@ python app.py
 
 ## AWS console screenshots
 
-![Screenshot 2024-11-15 164519](https://github.com/user-attachments/assets/6c213a8a-c07a-4844-a91b-0d42ce00f70f)
+![Instance_creation](https://github.com/user-attachments/assets/6c213a8a-c07a-4844-a91b-0d42ce00f70f)
+
+![Bloodbridge_link](https://github.com/user-attachments/assets/5550e799-fbad-4f76-87ff-32a2bcf85932)
+
+![Application_creation](https://github.com/user-attachments/assets/ad8994f4-f8d0-4522-bfcb-05cff92d4730)
+
+## AWS console demo video
+
+
+
+
+
+
+
+
 
