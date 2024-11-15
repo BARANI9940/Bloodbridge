@@ -60,3 +60,5 @@ python app.py
 
 
 ## AWS console screenshots
+
+https://github.com/BARANI9940/Bloodbridge/blob/main/Screenshot%202024-11-15%20164519.png
