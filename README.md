@@ -69,6 +69,9 @@ python app.py
 
 ## AWS console demo video
 
+https://github.com/user-attachments/assets/ff6f828f-20a4-4dcf-aeac-f2ab635afe74
+
+https://github.com/user-attachments/assets/b9c014dd-8d7c-4641-8419-c0b7c14f2b7e
 
 
 
